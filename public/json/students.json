@@ -1,0 +1,194 @@
+[
+
+  {
+      "userCode"     :  "WDD-001",
+      "fName"        :  "Marcelo",
+      "lName"        :  "Diaz",
+      "mName"        :  "Valenzuela",
+      "address"      :  "San Pedro Laguna",
+      "department"   :  "Web Development Department",
+      "studPerformance": {
+        "academics": 63,
+        "extracurricular": 94,
+        "currentGrade": 85
+      },
+      "profilePic": "user1.jpg"
+
+    }
+,
+{
+    "userCode"     :  "AED-001",
+    "fName"        :  "Jonas",
+    "lName"        :  "Brown",
+    "mName"        :  "Simons",
+    "address"      :  "B42 L33 Southville 3 , Muntinlupa City",
+    "department"   :  "Architecture and Engineering Department",
+    "studPerformance": {
+      "academics": 50,
+      "extracurricular": 97,
+      "currentGrade": 85
+    },
+    "profilePic": "user2.jpg"
+
+  }
+,
+{
+    "userCode"     :  "WDD-002",
+    "fName"        :  "Mitra",
+    "lName"        :  "Gray",
+    "mName"        :  "Field",
+    "address"      :  "Brgy Tunasan, Muntinlupa City",
+    "department"   :  "Web Development Department",
+    "studPerformance": {
+      "academics": 84,
+      "extracurricular": 87,
+      "currentGrade": 85
+    },
+    "profilePic": "user3.jpg"
+
+  }
+,
+{
+    "userCode"     :  "AED-002",
+    "fName"        :  "Maria",
+    "lName"        :  "Leona",
+    "mName"        :  "Rufus",
+    "address"      :  "B23 L56, Richview, Nuvali, Sta rosa Laguna",
+    "department"   :  "Architecture and Engineering Department",
+    "studPerformance": {
+      "academics": 90,
+      "extracurricular": 97,
+      "currentGrade": 93
+    },
+    "profilePic": "user4.jpeg"
+
+  }
+,
+{
+    "userCode"     :  "AED-003",
+    "fName"        :  "Almira",
+    "lName"        :  "Velasquez",
+    "mName"        :  "Gomez",
+    "address"      :  "Unit 403 Gomez Street , Pacita III, San Pedro Laguna",
+    "department"   :  "Architecture and Engineering Department",
+    "studPerformance": {
+      "academics": 70,
+      "extracurricular": 76,
+      "currentGrade": 73
+    },
+    "profilePic": "user5.jpeg"
+
+  }
+,
+{
+    "userCode"     :  "WDD-003",
+    "fName"        :  "Rhea",
+    "lName"        :  "Sumallo",
+    "mName"        :  "Bianes",
+    "address"      :  "B42 L33 Southville 3 , Muntinlupa City",
+    "department"   :  "Web Development Department",
+    "studPerformance": {
+      "academics": 80,
+      "extracurricular": 82,
+      "currentGrade": 81
+    },
+    "profilePic": "user6.jpeg"
+
+  }
+,
+{
+    "userCode"     :  "WDD-004",
+    "fName"        :  "Morgiana",
+    "lName"        :  "Astrid",
+    "mName"        :  "Ofuji",
+    "address"      :  "Unit 403 Gomez Street , Pacita III, San Pedro Laguna",
+    "department"   :  "Web Development Department",
+    "studPerformance": {
+      "academics": 78,
+      "extracurricular": 79,
+      "currentGrade": 78
+    },
+    "profilePic": "user1.jpg"
+
+  }
+,
+{
+    "userCode"     :  "AED-004",
+    "fName"        :  "John",
+    "lName"        :  "Feliciano",
+    "mName"        :  "Doe",
+    "address"      :  "B23 L56, Richview, Nuvali, Sta rosa Laguna",
+    "department"   :  "Architecture and Engineering Department",
+    "studPerformance": {
+      "academics": 96,
+      "extracurricular": 97,
+      "currentGrade": 95
+    },
+    "profilePic": "user2.jpg"
+
+  }
+,
+{
+    "userCode"     :  "WDD-005",
+    "fName"        :  "Santino",
+    "lName"        :  "Combanwa",
+    "mName"        :  "Abhar",
+    "address"      :  "B1 L31 Southville 4 , Muntinlupa City",
+    "department"   :  "Web Development Department",
+    "studPerformance": {
+      "academics": 92,
+      "extracurricular": 87,
+      "currentGrade": 89
+    },
+    "profilePic": "user3.jpg"
+
+  }
+,
+{
+    "userCode"     :  "WDD-006",
+    "fName"        :  "Alkhamid",
+    "lName"        :  "Cortana",
+    "mName"        :  "Abhar",
+    "address"      :  "Laview, Unit 471, Sta rosa Laguna",
+    "department"   :  "Web Development Department",
+    "studPerformance": {
+      "academics": 75,
+      "extracurricular": 75,
+      "currentGrade": 75
+    },
+    "profilePic": "user4.jpeg"
+
+  }
+,
+{
+    "userCode"     :  "AED-005",
+    "fName"        :  "Mikaela",
+    "lName"        :  "Valenzuela",
+    "mName"        :  "Joson",
+    "address"      :  "Minesview, Nuvali, Sta rosa Laguna",
+    "department"   :  "Architecture and Engineering Department",
+    "studPerformance": {
+      "academics": 87,
+      "extracurricular": 97,
+      "currentGrade": 89
+    },
+    "profilePic": "user5.jpeg"
+
+  }
+,
+{
+    "userCode"     :  "WDD-007",
+    "fName"        :  "Jose",
+    "lName"        :  "Protacio",
+    "mName"        :  "Rizal",
+    "address"      :  "B23 L56, Richview, Nuvali, Sta rosa Laguna",
+    "department"   :  "Web Development Department",
+    "studPerformance": {
+      "academics": 72,
+      "extracurricular": 87,
+      "currentGrade": 79
+    },
+    "profilePic": "user6.jpeg"
+
+  }
+]

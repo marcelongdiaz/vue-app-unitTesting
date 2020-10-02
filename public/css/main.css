@@ -1,0 +1,41 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+.sidebar{
+  min-width: 300px;
+  height: 100%;
+  padding: 10px;
+  background: #34495E;
+  color: whitesmoke;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.btn-toggle-nav{
+  background-color: whitesmoke;
+  padding: 6px;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  right : -20px;
+  z-index: 15;
+}
+.btn-toggle-nav i{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.o-visible{
+  overflow: visible;
+}
+.page-content{
+    width: calc(100% - 256px);
+    margin-left: 256px!important;
+}
+#id-page-content{
+  transition-duration: 0.2s;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  margin-left: 55px;
+}
